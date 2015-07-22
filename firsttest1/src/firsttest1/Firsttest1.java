@@ -17,6 +17,8 @@ public class Firsttest1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("test2");
+        System.out.print("Tuesday");
+        System.out.print("Happy");
     }
     
 }
